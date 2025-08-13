@@ -1,10 +1,10 @@
 Config = {
     --- Compatibility Settings
     Resource = GetCurrentResourceName(),
-    Lang = 'en', -- check the prefixes in the locales folder or create your own
-    Target = 'qb-target', -- 'qb-target' or 'ox_target'
-    Inventory = 'qb-inventory', -- 'ox_inventory', 'qb-inventory' or 'ps-inventory'
-    Logging = 'qb', -- 'ox_lib' or 'qb' or 'esx'
+    Lang = 'ja', -- check the prefixes in the locales folder or create your own
+    Target = 'ox-target', -- 'qb-target' or 'ox_target'
+    Inventory = 'ox-inventory', -- 'ox_inventory', 'qb-inventory' or 'ps-inventory'
+    Logging = 'ox_lib', -- 'ox_lib' or 'qb' or 'esx'
 
     --- Items
     MaleSeed = 'weedplant_seedm',
